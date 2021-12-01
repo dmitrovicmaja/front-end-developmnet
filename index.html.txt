@@ -1,7 +1,0 @@
-<h1>Introduction to Front-end Develomnet</h1>
-<p>A front-end-developer architects and delops client part of websites and appčications using web tehnologies (languages):</p>
-<ul>
-<li style="color:red;">HTML</li>
->li style="color:green;">CSS</li>
-<li style="color:blue;">JacaScript</li>
-</ul>
